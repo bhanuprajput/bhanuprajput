@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bhanu Pratap Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi , I'm Bhanu Pratap Singh</h1>
+<h3 align="center">A 2nd year undergrad from HBTU KANPUR </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanuprajput&label=Profile%20views&color=0e75b6&style=flat" alt="bhanuprajput" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/bhanuprajput" target="blank"><img src="https://img.shields.io/twitter/follow/bhanuprajput?logo=twitter&style=for-the-badge" alt="bhanuprajput" /></a> </p>
 
-- 🔭 I’m currently working on [90-days-of DevOps](http:/github.com/bhanupratapsingh)
+-  I’m currently pursuing B.tech in Chemical Technology
 
-- 📫 How to reach me **bpsdrlic8967@gmail.com**
+-  How to reach me **bpsdrlic8967@gmail.com**
 
-- ⚡ Fun fact **I am too funny guy**
+-  Fun fact **I am too funny guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
